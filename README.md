@@ -21,7 +21,7 @@ Instalación
 
 \delilahResto-main\> CD routes
 
-6. Ejecute el siguiente comando "node index.js"
+6. Ejecute el siguiente comando "node index.js" 
 
 \delilahResto-main\routes> node index.js
 
