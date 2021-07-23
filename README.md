@@ -29,6 +29,11 @@ El sistema Delilah Restó se ejecuta con una base de datos MySQL, por lo que se 
 
 9. Vamos
 
+-Archivo para verificar  si  la conexión a la base se encuentra parametrizada, se encuentra en :
+
+delilahResto-main\controllers \database.js\     -
+
+
 
 Servidor Express
 
