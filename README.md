@@ -15,6 +15,7 @@ El sistema Delilah Restó se ejecuta con una base de datos MySQL, por lo que se 
 2. Inicie tanto Apache como MySQL
 3. Abra el administrador de MySQL
 4.Crea una nueva base de datos
+
 5. Nombre la nueva base de datos como "delilah_resto" y haga clic en crear
 6.Haga clic en "importar"
 7.Haga clic en seleccionar
